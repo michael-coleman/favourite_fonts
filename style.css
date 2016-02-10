@@ -1,0 +1,52 @@
+/* Utility classes */
+.centre-text {
+	text-align: center;
+}
+
+.oswald {
+	font-family: 'Oswald', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 72px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	line-height: 1.4;
+}
+.roboto {
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	text-transform: none;
+	text-decoration: none;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	line-height: 1.4;
+}
+.roboto-upper {
+	text-transform: uppercase;
+}
+.open-sans-condensed {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 72px;
+	text-transform: uppercase;
+	text-decoration: none;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	line-height: 1.4;
+}
+.work-sans-extra-bold {
+	FONT-FAMILY: 'WORK SANS', SANS-SERIF;
+	FONT-STYLE: NORMAL;
+	FONT-WEIGHT: 800;
+	FONT-SIZE: 72PX;
+	TEXT-TRANSFORM: UPPERCASE;
+	TEXT-DECORATION: NONE;
+	LETTER-SPACING: 0EM;
+	WORD-SPACING: 0EM;
+	LINE-HEIGHT: 1.4;
+}
